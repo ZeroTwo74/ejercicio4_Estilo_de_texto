@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ejercicio4</string>
+    <string name="hint_asd">ingrese una cadena\n</string>
+    <string name="Autor">Jose Martel Mercado Jimenez</string>
+    <string name="chk_negrita">Negrita\n</string>
+    <string name="cnk_cursiva">cirsiva\n</string>
+    <string name="cnk_cursivas">Cursiva</string>
+</resources>
